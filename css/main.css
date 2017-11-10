@@ -1,0 +1,19 @@
+.tabs{
+  background-color: blue;
+  color: white;
+  display: inline-block;
+  padding: 20px;
+  margin: 30px;
+}
+
+.parrafos{
+  width: 60%;
+}
+
+.hidden {
+  display: none;
+}
+
+.red{
+  background-color: yellow;
+}
